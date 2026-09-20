@@ -1,0 +1,14 @@
+{
+  "manifestVersion": 1,
+  "pluginId": "ai.rever.boss.plugin.dynamic.fluckresearch",
+  "displayName": "Fluck Research",
+  "version": "0.1.0",
+  "apiVersion": "1.0.93",
+  "minBossVersion": "9.4.2",
+  "mainClass": "ai.rever.boss.plugin.dynamic.fluckresearch.FluckResearchDynamicPlugin",
+  "type": "panel",
+  "description": "Citation capture panel that complements Fluck Browser",
+  "author": "Choksi",
+  "url": "https://github.com/choksi2212/boss-plugin-fluck-research",
+  "panel": { "position": "right_bottom", "priority": 16 }
+}
