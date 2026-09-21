@@ -8,7 +8,10 @@
   "mainClass": "ai.rever.boss.plugin.dynamic.fluckresearch.FluckResearchDynamicPlugin",
   "type": "panel",
   "description": "Citation capture panel that complements Fluck Browser",
-  "author": "Choksi",
+  "author": "choksi2212",
   "url": "https://github.com/choksi2212/boss-plugin-fluck-research",
-  "panel": { "position": "right_bottom", "priority": 16 }
+  "panel": {
+    "position": "right_bottom",
+    "priority": 16
+  }
 }
