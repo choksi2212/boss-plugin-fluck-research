@@ -17,7 +17,7 @@ class FluckResearchDynamicPlugin : DynamicPlugin {
     override val displayName: String = "Fluck Research"
     override val version: String = "0.1.0"
     override val description: String = "Citation capture panel that complements Fluck Browser"
-    override val author: String = "Choksi"
+    override val author: String = "choksi2212"
     override val url: String = "https://github.com/choksi2212/boss-plugin-fluck-research"
 
     override fun register(context: PluginContext) {
